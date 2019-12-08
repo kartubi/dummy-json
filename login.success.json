@@ -1,9 +1,0 @@
-{
-  "success":true,
-  "message":"success login",
-  "data":{
-    "id":1,
-    "name":"kartubi",
-    "email":"kartubi1@gmail.com"
-  }
-}
